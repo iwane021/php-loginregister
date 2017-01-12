@@ -1,5 +1,5 @@
         <footer>
-            &copy; Copyright by tukarpengetahuan.com
+            &copy; Copyright by <a href="http://tukarpengetahuan.com/">tukarpengetahuan.com</a>
         </footer>
 
          <!--JS-->
